@@ -1,0 +1,4 @@
+#!/bin/bash
+$ ./8-firstdelete
+$ ls /tmp/my_first_directory/
+$
